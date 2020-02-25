@@ -51,7 +51,7 @@ body{
 }
 
 #main{
-  background-image: url('../../../Web Dev Udemy/Notes/csscrashcourse/mywebsite/images/showcase.jpg');
+  background-image: url('../showcase.jpg');
   background-position: center right;
   min-height:350px;
 }
